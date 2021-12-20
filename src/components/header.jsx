@@ -210,7 +210,7 @@ class HeaderHome extends Component {
                                                         - - Fresh Fruit
                                                     </option>
                                                     <option value="187">
-                                                        - - - - Bananas
+                                                        - - - - Bananasd
                                                     </option>
                                                     <option value="188">
                                                         - - - - Apples &amp; Pears
